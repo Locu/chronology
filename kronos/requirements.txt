@@ -9,6 +9,6 @@ lz4==0.7.0
 pykronos==0.6.2
 python-dateutil==2.2
 python-timeuuid==0.3.5
-requests==2.3.0
+requests==2.20.0
 werkzeug==0.9.6
 ujson==1.33
