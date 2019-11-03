@@ -10,5 +10,5 @@ pykronos==0.6.2
 python-dateutil==2.2
 python-timeuuid==0.3.5
 requests==2.3.0
-werkzeug==0.9.6
+werkzeug==0.15.3
 ujson==1.33
